@@ -1,0 +1,8 @@
+:root {
+  --fade-bg: linear-gradient(to bottom, #dd679b, #6581e5);
+  --color-Default: #fff;
+  --color-Gray: #000000ad;
+  --color-Invalid: #F52E2E;
+  --color-Valid: #3CCC87;
+  --color-Valid-Hover: #2b915f;
+}
